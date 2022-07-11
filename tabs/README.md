@@ -1,3 +1,3 @@
-#### IN ACTION
+#### Tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+Clicking each tabs will display it's info
